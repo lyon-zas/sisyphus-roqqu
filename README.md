@@ -1,4 +1,3 @@
-# sisyphus
 # sisyphus roqqu 
 
 This project demonstrates the integration of the Binance WebSockets API for Candlestick and Orderbooks into an interactive user interface. The UI design is based on the provided Figma design.
