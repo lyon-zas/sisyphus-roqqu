@@ -1,18 +1,18 @@
 # sisyphus
+# sisyphus roqqu 
 
-A new Flutter project.
+This project demonstrates the integration of the Binance WebSockets API for Candlestick and Orderbooks into an interactive user interface. The UI design is based on the provided Figma design.
 
-## Getting Started
+![Demo](demo.gif)
 
-This project is a starting point for a Flutter application.
+## Overview
 
-A few resources to get you started if this is your first Flutter project:
+The project utilizes Flutter to create a mobile app that connects to the Binance WebSockets API to fetch real-time candlestick and orderbook data. The app displays the data in an interactive UI, allowing users to view and interact with the market data.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# sisyphus-roqqu
-# sisyphus-roqqu
+- Real-time candlestick data: The app fetches and displays real-time candlestick data for the selected trading pair.
+- Live orderbook updates: The app receives live updates from the Binance WebSockets API and reflects the changes in the orderbook UI.
+- Interactive UI: Users can interact with the candlestick chart and orderbook to view detailed information and perform actions.
+
+
